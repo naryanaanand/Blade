@@ -1,0 +1,7 @@
+{
+  "name": "Neon Blade: AI Dojo",
+  "description": "A motion-controlled slicing game where Gemini generates the challenges and your hand is the sword.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
